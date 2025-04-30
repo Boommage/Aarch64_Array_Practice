@@ -11,7 +11,7 @@
 	//==============================================
 
 	.section .data
-IDin:	.asciz	 "Enter the last digit of your TCU ID number: "
+IDin:	.asciz	 "Enter a number: "
 	.align 3
 
 Outn:	.asciz	"n = %d\n"
